@@ -1,0 +1,15 @@
+{
+  "name": "miniact",
+  "version": "1.0.0",
+  "description": "WP REST API & React",
+  "repository": "https://github.com/eliorivero/miniact",
+  "author": "Elio Rivero",
+  "license": "GPL-2.0+",
+  "scripts": {
+    "build": "NODE_ENV=production webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
